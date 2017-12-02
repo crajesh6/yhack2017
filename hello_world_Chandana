@@ -1,0 +1,5 @@
+import tensorflow as tf
+
+
+def fully_connected(n, input):
+    input = tf
